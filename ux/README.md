@@ -29,12 +29,22 @@ __Técnicas usadas en esta fase:__ Entrevistas.
 
 __5. Objetivos del negocio:__ (Enlistarlo(s))
 
-__6. Motivaciones del negocio para el data dashboard:__(Enlistarlo(s))
+__6. Motivaciones del negocio para el data dashboard:__
+
+
 
 ### **2. Síntesis y definición**
 (Dada la fase anterior de investigación, ahora vamos a tomar todos los datos más importantes y transformarlos en información valiosa para comenzar a orientarse a la solución. También vamos a entender lo que la empresa quiere de ese producto y comenzar a entender ambas visiones con el fin de encontrar un punto armónico)
 
-__1. Cuáles crees que son los datos más importantes a tener en cuenta para el Data Dashboard:__
+__1. Cuáles crees que son los datos más importanteLa interfaz debe permitir al usuario:__
+
+ Generar status para identificar estudiantes debajo del 60 en su porcentaje de completitud
+Generar status para identificar estudiantes con 90 o más en su porcentaje de completitud
+ Poder filtrar estudiantes por estos dos status
+ Filtrar y poder buscar estudiantes por nombre
+ Poder ordenar de manera ascendente y descendente a las estudiantes según
+ porcentaje de completitud.
+
 
    - Sobre las estudiantes:
 
@@ -46,7 +56,7 @@ __3. Insights:__
 
 __4. Data proporcionada:__
 
-     -_Data relacionada a los cursos:_
+Sedes,Informacion sobre las estudiantes
 
 __5. Insights del negocio:__
 
