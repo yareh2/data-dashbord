@@ -26,7 +26,7 @@ __Pain points:__ El tener que estar realizando el trabajo dia con dia pues los d
 __Sentimientos:__ desesperacion ,suelen abrumarse y enojo ,frutracion.
 
 __Técnicas usadas en esta fase:__ Entrevistas.
-
+<
 __5. Objetivos del negocio:__ (Enlistarlo(s))
 
 __6. Motivaciones del negocio para el data dashboard:__
@@ -38,25 +38,21 @@ __6. Motivaciones del negocio para el data dashboard:__
 
 __1. Cuáles crees que son los datos más importanteLa interfaz debe permitir al usuario:__
 
- Generar status para identificar estudiantes debajo del 60 en su porcentaje de completitud
-Generar status para identificar estudiantes con 90 o más en su porcentaje de completitud
- Poder filtrar estudiantes por estos dos status
- Filtrar y poder buscar estudiantes por nombre
- Poder ordenar de manera ascendente y descendente a las estudiantes según
- porcentaje de completitud.
+    * identificar estudiantes debajo del 60 en su porcentaje de completitud
+    * identificar estudiantes con 90 o más en su porcentaje de completitud
+    * Poder filtrar estudiantes por estos dos status
+    * Filtrar y poder buscar estudiantes por nombre
+    * ordenar de manera ascendente y descendente a las estudiantes según
+    porcentaje de completitud.
 
-
-   - Sobre las estudiantes:
-
-
-__2. Lo que los usuarios esperan obtener:__ Una informacion bien organizada y que sea de gran utilidad,
+   __2. Lo que los usuarios esperan obtener:__ Una informacion bien organizada,nada de complejidad,y redusca tiempo , que sea de gran utilidad,
 
 
 __3. Insights:__
 
 __4. Data proporcionada:__
 
-Sedes,Informacion sobre las estudiantes
+Sedes,Informacion sobre las estudiantes(nombre,email,generacio,y porcentaje cumplido.)
 
 __5. Insights del negocio:__
 
